@@ -108,12 +108,13 @@ All the following tasks were **completed and documented in the Excel file** “B
 
 ---
 
-## 📂 Repository Structure
+## 🗂️ Files Included
 
-📁 Business-Analytics-Project
-│
-├── 📘 Business Analytics Project.xlsx # Excel file with all answers and analysis
-├── 📄 README.md # Project documentation
+| File | Description |
+|------|--------------|
+| `Business Analytics Project.xlsx` | Project report template used for final submission |
+| `README.md` | This file |
+
 ---
 
 ### 🏁 Summary
