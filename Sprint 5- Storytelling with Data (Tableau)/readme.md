@@ -47,18 +47,14 @@ The next phase was to design and build a dashboard that consolidates key visuali
 
 #### Steps Followed:
 1. Low-Fidelity Mockups
-   - Created 3 pen-and-paper sketches of dashboard layouts.
-   - Chose the most effective design for the final build.
-   - Scanned mockups and included them in the project ZIP.
+   - Created 3 sketches of dashboard layouts and select most effective design for the final build.
 
 2. Dashboard Template Creation
-   - Built a template using empty containers in Tableau.
-   - Took a screenshot of the empty layout before populating it.
+   - Built a template using empty containers in Tableau and take a screenshot of the empty layout. 
 
 3. Final Dashboard Assembly
    - Added worksheets, filters, and key metrics.
    - Applied professional formatting, color consistency, and branding.
-   - Final dashboard provides a single-page summary of insights and interactive filtering.
 
 ---
 
