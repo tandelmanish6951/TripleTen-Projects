@@ -1,18 +1,18 @@
-# 📊 Data Visualization with Tableau — Superstore Profitability Project
+# Data Visualization with Tableau
 
 Welcome to my **Data Visualization with Tableau Project**, where I analyzed the **Superstore dataset** to uncover insights on profitability, advertising strategies, and product returns.  
 All project tasks and visualizations were **answered and built in the Tableau workbook file: “Sprint 4 Project-twbx.zip.”**
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 The fictional **Superstore** is facing major profitability challenges.  
 As a consultant, my goal was to analyze the store’s sales, profit, and return data to recommend **profitable product strategies**, **advertising opportunities**, and **loss reduction tactics** through **data-driven visualizations** built in **Tableau Desktop**.
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **File Used:** `Superstore.xls`  
 **Source:** Provided dataset simulating Superstore’s transactional and returns data.  
@@ -23,12 +23,12 @@ As a consultant, my goal was to analyze the store’s sales, profit, and return 
 
 ---
 
-## 💡 Project Tasks & Deliverables
+## Project Tasks & Deliverables
 All questions below were **answered in Tableau** and saved within **Sprint 4 Project-twbx.zip**.
 
 ---
 
-### 🧾 Part 1: Profits & Losses
+### Part 1: Profits & Losses
 **Goal:** Identify key profit and loss centers across the business.
 
 #### Tasks:
@@ -46,7 +46,7 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 
 ---
 
-### 💬 Part 2: Advertising Strategy
+### Part 2: Advertising Strategy
 **Goal:** Evaluate the best time and place for advertising based on profitability trends.
 
 #### Tasks:
@@ -60,7 +60,7 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 
 ---
 
-### 🔁 Part 3: Returned Items Analysis
+### Part 3: Returned Items Analysis
 **Goal:** Detect patterns in product and customer returns and assess their profitability impact.
 
 #### Tasks:
@@ -81,7 +81,7 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 
 ---
 
-## 🧾 Deliverables Summary
+## Deliverables Summary
 | Part | Task Description | Tableau Sheet Name | File |
 |------|------------------|--------------------|------|
 | 1 | Profit & Loss Centers | `Profit Centers`, `Product Losses`, `Subcategory Strategy` | Sprint 4 Project-twbx.zip |
@@ -90,16 +90,16 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 
 ---
 
-## 🌐 Tableau Public Dashboard
+## Tableau Public Dashboard
 
-📊 **View Interactive Dashboard Here:**  
-👉 [Tableau Public Link](https://public.tableau.com/)
+ **View Interactive Dashboard Here:**  
+ [Tableau Public Link](https://public.tableau.com/)
 
 *(Replace this link with your published dashboard URL once uploaded to Tableau Public.)*
 
 ---
 
-## ⚙️ Tools & Techniques Used
+## Tools & Techniques Used
 - **Tableau Desktop**
 - Data Cleaning & Joining (LEFT JOIN)
 - Calculated Fields (`Returned`)
@@ -109,7 +109,7 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 - KPI Design & Storytelling
 ---
 
-### 🏁 Summary
+### Summary
 
 This project demonstrates how **data visualization can uncover business insights** — from profit analysis and advertising strategy to product return behavior.  
 Each task was completed in **Tableau** and saved in the **“Sprint 4 Project-twbx.zip”** file, highlighting skills in **data storytelling**, **visual analytics**, and **strategic business recommendations**.
