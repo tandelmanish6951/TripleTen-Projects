@@ -1,6 +1,6 @@
 #  Business Analytics Project
 
-Welcome to my Business Analytics Project, where I analyzed e-commerce user activity logs to uncover insights into conversion performance, customer retention, and purchase behavior. All analyses and calculations were answered and documented in the Excel file: “Business Analytics Project.xlsx.”
+Welcome to my Business Analytics Project, where I analyzed e-commerce user activity logs to uncover insights into conversion performance, customer retention, and purchase behavior.
 
 ---
 
