@@ -1,4 +1,4 @@
-# 🧠 VentureInsight SQL Analysis Project
+# 🧠 SQL Analysis Project
 
 Welcome to the **VentureInsight SQL Project**, where I completed a series of real-world data analysis tasks designed to simulate the responsibilities of a **Data Analyst** at a venture research firm.  
 Each question in this project was **answered using SQL**, applying concepts such as aggregation, filtering, pattern matching, grouping, and joins.
