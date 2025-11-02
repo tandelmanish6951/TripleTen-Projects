@@ -30,17 +30,14 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 **Goal:** Identify key profit and loss centers across the business.
 
 #### Tasks:
-1. Determine the **two biggest profit centers** and **two biggest loss-makers** using combinations of dimensions (e.g., subcategory + region, shipping mode + product ID).  
+1. Determine the two biggest profit centers and two biggest loss-makers using combinations of dimensions (e.g., subcategory + region, shipping mode + product ID).  
    -  Visualization: Profit comparison across dimension pairs.  
-   - **Answered in Tableau (Sheet: Profit Centers)**  
 
-2. Identify **which products the store should stop selling.**  
+2. Identify which products the store should stop selling.
    -  Visualization: Product profitability distribution.  
-   - **Answered in Tableau (Sheet: Product Losses)**  
 
-3. Determine **3 product subcategories to focus on** and **3 to stop selling.**  
+3. Determine 3 product subcategories to focus on and 3 to stop selling. 
    -  Visualization: Profit by subcategory bar chart.  
-   - **Answered in Tableau (Sheet: Subcategory Strategy)**  
 
 ---
 
@@ -48,13 +45,11 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 **Goal:** Evaluate the best time and place for advertising based on profitability trends.
 
 #### Tasks:
-1. Identify the **3 best state-month combinations** for advertising based on average profit trends.  
+1. Identify the 3 best state-month combinations for advertising based on average profit trends.  
    -  Visualization: Line charts of average profit by month for selected states.  
-   - **Answered in Tableau (Sheet: Advertising Opportunities)**  
 
-2. Calculate the **advertising budget limit** assuming the store should spend **1/5 of profits** on advertising.  
+2. Calculate the advertising budget limit assuming the store should spend 1/5 of profits on advertising.  
    -  Visualization: Profit-to-ad-spend ratio per month and state.  
-   - **Answered in Tableau (Sheet: Ad Spend Strategy)**  
 
 ---
 
@@ -62,20 +57,17 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 **Goal:** Detect patterns in product and customer returns and assess their profitability impact.
 
 #### Tasks:
-1. **Join** the `Returns` table to the `Orders` table using a **LEFT JOIN** to analyze returned vs. non-returned products.  
-   - Created a **calculated field** `Returned` (Yes = 1, Null = 0).  
+1. Join the `Returns` table to the `Orders` table using a LEFT JOIN to analyze returned vs. non-returned products.  
+   - Created a calculated field `Returned` (Yes = 1, Null = 0).  
 
-2. Identify **products with the highest return rate.**  
+2. Identify products with the highest return rate.  
    -  Visualization: Return rate by product.  
-   - **Answered in Tableau (Sheet: Product Returns)**  
 
-3. Identify **customers with the highest return rate.**  
+3. Identify customers with the highest return rate.  
    -  Visualization: Return rate by customer.  
-   - **Answered in Tableau (Sheet: Customer Returns)**  
 
-4. Visualize **average profit vs. average return rate** across a chosen dimension (e.g., state or shipping mode).  
-   -  Visualization: Scatter plot comparing profitability and return rate.  
-   - **Answered in Tableau (Sheet: Profit vs Return Analysis)**  
+4. Visualize average profit vs. average return rate across a chosen dimension
+   -  Visualization: Scatter plot comparing profitability and return rate.   
 
 ---
 
@@ -89,7 +81,7 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 ---
 
 ## Tools & Techniques Used
-- **Tableau Desktop**
+- Tableau Desktop
 - Data Cleaning & Joining (LEFT JOIN)
 - Calculated Fields (`Returned`)
 - Aggregations & Filtering
