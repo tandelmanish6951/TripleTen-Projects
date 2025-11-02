@@ -21,11 +21,6 @@ The dataset, provided in the `"raw_user_activity"` sheet, contains the following
 
 ---
 
-##  Dataset Source
-- File Name: Business Analytics Project.xlsx 
-- Sheet: raw_user_activity 
----
-
 ##  Files Included
 
 | File | Description |
