@@ -33,15 +33,15 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 
 #### Tasks:
 1. Determine the **two biggest profit centers** and **two biggest loss-makers** using combinations of dimensions (e.g., subcategory + region, shipping mode + product ID).  
-   - 🔍 Visualization: Profit comparison across dimension pairs.  
+   -  Visualization: Profit comparison across dimension pairs.  
    - **Answered in Tableau (Sheet: Profit Centers)**  
 
 2. Identify **which products the store should stop selling.**  
-   - 🔍 Visualization: Product profitability distribution.  
+   -  Visualization: Product profitability distribution.  
    - **Answered in Tableau (Sheet: Product Losses)**  
 
 3. Determine **3 product subcategories to focus on** and **3 to stop selling.**  
-   - 🔍 Visualization: Profit by subcategory bar chart.  
+   -  Visualization: Profit by subcategory bar chart.  
    - **Answered in Tableau (Sheet: Subcategory Strategy)**  
 
 ---
@@ -51,11 +51,11 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 
 #### Tasks:
 1. Identify the **3 best state-month combinations** for advertising based on average profit trends.  
-   - 🔍 Visualization: Line charts of average profit by month for selected states.  
+   -  Visualization: Line charts of average profit by month for selected states.  
    - **Answered in Tableau (Sheet: Advertising Opportunities)**  
 
 2. Calculate the **advertising budget limit** assuming the store should spend **1/5 of profits** on advertising.  
-   - 🔍 Visualization: Profit-to-ad-spend ratio per month and state.  
+   -  Visualization: Profit-to-ad-spend ratio per month and state.  
    - **Answered in Tableau (Sheet: Ad Spend Strategy)**  
 
 ---
@@ -68,15 +68,15 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
    - Created a **calculated field** `Returned` (Yes = 1, Null = 0).  
 
 2. Identify **products with the highest return rate.**  
-   - 🔍 Visualization: Return rate by product.  
+   -  Visualization: Return rate by product.  
    - **Answered in Tableau (Sheet: Product Returns)**  
 
 3. Identify **customers with the highest return rate.**  
-   - 🔍 Visualization: Return rate by customer.  
+   -  Visualization: Return rate by customer.  
    - **Answered in Tableau (Sheet: Customer Returns)**  
 
 4. Visualize **average profit vs. average return rate** across a chosen dimension (e.g., state or shipping mode).  
-   - 🔍 Visualization: Scatter plot comparing profitability and return rate.  
+   -  Visualization: Scatter plot comparing profitability and return rate.  
    - **Answered in Tableau (Sheet: Profit vs Return Analysis)**  
 
 ---
