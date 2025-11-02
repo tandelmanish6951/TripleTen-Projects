@@ -57,7 +57,7 @@ The final deliverable is a **concise, stakeholder-ready report** summarizing key
 
 ---
 
-## 💡 Key Insights (Example Themes)
+## 💡 Key Insights
 
 - Artists with higher engagement rates tend to invest in cross-platform promotions.  
 - User engagement peaks around curated playlists featuring trending genres.  
