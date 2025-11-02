@@ -79,7 +79,7 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 
 ---
 
-## 🗂️ Files Included
+## Files Included
 
 | File | Description |
 |------|--------------|
