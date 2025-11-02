@@ -1,7 +1,6 @@
 # Data Visualization with Tableau
 
 Welcome to my **Data Visualization with Tableau Project**, where I analyzed the **Superstore dataset** to uncover insights on profitability, advertising strategies, and product returns.  
-All project tasks and visualizations were **answered and built in the Tableau workbook file: “Sprint 4 Project-twbx.zip.”**
 
 ---
 
