@@ -49,7 +49,7 @@ The next phase was to design and build a dashboard that consolidates key visuali
 1. Low-Fidelity Mockups
    - Created 3 pen-and-paper sketches of dashboard layouts.
    - Chose the most effective design for the final build.
-   - 📷 Scanned mockups and included them in the project ZIP.
+   - Scanned mockups and included them in the project ZIP.
 
 2. Dashboard Template Creation
    - Built a template using empty containers in Tableau.
