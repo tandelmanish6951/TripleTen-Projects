@@ -41,5 +41,16 @@ Data cleaning and preparation were performed using Excel functions and formulas.
    - Created a new column `top_listing` in the listings dataset.  
    - Value = `1` if the listing belongs to the **top 10 neighborhoods** and matches the **most popular property size**; otherwise, `0`.  
 
-4. **Revenue Calculation**  
-   - In the **calendar**
+4. **Revenue Calculation**
+
+---
+
+## ✅ Checklist  
+
+☑ Unnecessary columns hidden  
+☑ Consistent formatting (fonts, borders, and colors)  
+☑ Data cleaning and change log sheet included  
+☑ Executive summary and table of contents present  
+☑ All multiple-choice questions answered and validated  
+
+---
