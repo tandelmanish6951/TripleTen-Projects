@@ -88,15 +88,6 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 
 ---
 
-## Tableau Public Dashboard
-
- **View Interactive Dashboard Here:**  
- [Tableau Public Link](https://public.tableau.com/)
-
-*(Replace this link with your published dashboard URL once uploaded to Tableau Public.)*
-
----
-
 ## Tools & Techniques Used
 - **Tableau Desktop**
 - Data Cleaning & Joining (LEFT JOIN)
@@ -109,5 +100,5 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 
 ### Summary
 
-This project demonstrates how **data visualization can uncover business insights** — from profit analysis and advertising strategy to product return behavior.  
-Each task was completed in **Tableau** and saved in the **“Sprint 4 Project-twbx.zip”** file, highlighting skills in **data storytelling**, **visual analytics**, and **strategic business recommendations**.
+This project demonstrates how data visualization can uncover business insights — from profit analysis and advertising strategy to product return behavior.  
+Each task was completed in Tableau and highlighting skills in data storytelling**, **visual analytics**, and **strategic business recommendations.
