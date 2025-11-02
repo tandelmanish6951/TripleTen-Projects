@@ -76,6 +76,7 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 | File | Description |
 |------|--------------|
 | `Sprint 4 Project-twbx.zip` | Project report zip file used for final submission |
+| `Superstore.xls` | Excel file used for data evaluation |
 | `README.md` | This file |
 
 ---
