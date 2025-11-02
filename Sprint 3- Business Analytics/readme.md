@@ -27,7 +27,14 @@ The dataset, provided in the `"raw_user_activity"` sheet, contains the following
 - File Name: **Business Analytics Project.xlsx**  
 - Sheet: **raw_user_activity**  
 - Tools Used: **Microsoft Excel / Google Sheets**
+---
 
+## 🗂️ Files Included
+
+| File | Description |
+|------|--------------|
+| `Business Analytics Project.xlsx` | Project report template used for final submission |
+| `README.md` | This file |
 ---
 
 ## 🧩 Project Tasks and Deliverables
@@ -105,15 +112,6 @@ All the following tasks were **completed and documented in the Excel file** “B
 - **Data Cleaning & Filtering**
 - **Cohort Analysis**
 - **Conversion Funnel Metrics**
-
----
-
-## 🗂️ Files Included
-
-| File | Description |
-|------|--------------|
-| `Business Analytics Project.xlsx` | Project report template used for final submission |
-| `README.md` | This file |
 
 ---
 
