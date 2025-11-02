@@ -79,12 +79,12 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 
 ---
 
-## Deliverables Summary
-| Part | Task Description | Tableau Sheet Name | File |
-|------|------------------|--------------------|------|
-| 1 | Profit & Loss Centers | `Profit Centers`, `Product Losses`, `Subcategory Strategy` | Sprint 4 Project-twbx.zip |
-| 2 | Advertising Analysis | `Advertising Opportunities`, `Ad Spend Strategy` | Sprint 4 Project-twbx.zip |
-| 3 | Return Analysis | `Product Returns`, `Customer Returns`, `Profit vs Return Analysis` | Sprint 4 Project-twbx.zip |
+## 🗂️ Files Included
+
+| File | Description |
+|------|--------------|
+| `Sprint 4 Project-twbx.zip` | Project report zip file used for final submission |
+| `README.md` | This file |
 
 ---
 
