@@ -38,9 +38,8 @@ The dataset, provided in the `"raw_user_activity"` sheet, contains the following
 ---
 
 ## 🧩 Project Tasks and Deliverables
-All the following tasks were **completed and documented in the Excel file** “Business Analytics Project.xlsx.”
 
-### **Part 1: Build a Conversion Funnel**
+### **Part 1: Conversion Funnel**
 **Goal:** Understand how effectively product page views convert into purchases.  
 **Steps Completed:**
 - Created a new sheet: `conversion_funnel`
