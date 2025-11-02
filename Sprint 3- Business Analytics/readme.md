@@ -35,7 +35,7 @@ The dataset, provided in the `"raw_user_activity"` sheet, contains the following
 **Goal:** Understand how effectively product page views convert into purchases.  
 **Steps Completed:**
 - Created a new sheet: `conversion_funnel`
-- Built a pivot table counting unique users at each stage of the funnel (view → cart → purchase)
+- Built a pivot table counting unique users at each stage of the funnel
 - Added total conversion rate and step-to-step conversion rate formulas  
 **Answered in:** `conversion_funnel` sheet  
 
