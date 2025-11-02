@@ -6,8 +6,7 @@ Welcome to my **Data Visualization with Tableau Project**, where I analyzed the 
 
 ## Project Overview
 
-The fictional **Superstore** is facing major profitability challenges.  
-As a consultant, my goal was to analyze the store’s sales, profit, and return data to recommend **profitable product strategies**, **advertising opportunities**, and **loss reduction tactics** through **data-driven visualizations** built in **Tableau Desktop**.
+The **Superstore** is facing major profitability challenges. As a consultant, my goal was to analyze the store’s sales, profit, and return data to recommend profitable product strategies, advertising opportunities**, and **loss reduction tactics through data-driven visualizations** built in **Tableau Desktop.
 
 ---
 
