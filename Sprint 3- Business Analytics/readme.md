@@ -1,14 +1,12 @@
-# 📊 Business Analytics Project — E-Commerce User Behavior Analysis
+#  Business Analytics Project — E-Commerce User Behavior Analysis
 
-Welcome to my **Business Analytics Project**, where I analyzed e-commerce user activity logs to uncover insights into **conversion performance**, **customer retention**, and **purchase behavior**.  
-All analyses and calculations were **answered and documented in the Excel file: “Business Analytics Project.xlsx.”**
+Welcome to my Business Analytics Project, where I analyzed e-commerce user activity logs to uncover insights into conversion performance, customer retention, and purchase behavior. All analyses and calculations were answered and documented in the Excel file: “Business Analytics Project.xlsx.”
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
-As a newly hired **Junior Data Analyst** at a fictional e-commerce company, my goal was to transform raw event logs into actionable business metrics.  
-Using spreadsheet analytics, I built a **conversion funnel**, performed **cohort analysis**, and calculated **retention rates** to help the executive team understand customer engagement and loyalty.
+As a newly hired Junior Data Analyst at a fictional e-commerce company, my goal was to transform raw event logs into actionable business metrics. Using spreadsheet analytics, I built a conversion funnel, performed cohort analysis, and calculated retention rates to help the executive team understand customer engagement and loyalty.
 
 The dataset, provided in the `"raw_user_activity"` sheet, contains the following columns:
 
@@ -23,13 +21,12 @@ The dataset, provided in the `"raw_user_activity"` sheet, contains the following
 
 ---
 
-## 🧾 Dataset Source
-- File Name: **Business Analytics Project.xlsx**  
-- Sheet: **raw_user_activity**  
-- Tools Used: **Microsoft Excel / Google Sheets**
+##  Dataset Source
+- File Name: Business Analytics Project.xlsx 
+- Sheet: raw_user_activity 
 ---
 
-## 🗂️ Files Included
+##  Files Included
 
 | File | Description |
 |------|--------------|
@@ -37,19 +34,19 @@ The dataset, provided in the `"raw_user_activity"` sheet, contains the following
 | `README.md` | This file |
 ---
 
-## 🧩 Project Tasks and Deliverables
+##  Project Tasks and Deliverables
 
-### **Part 1: Conversion Funnel**
+### Part 1: Conversion Funnel
 **Goal:** Understand how effectively product page views convert into purchases.  
 **Steps Completed:**
 - Created a new sheet: `conversion_funnel`
-- Built a **pivot table** counting **unique users** at each stage of the funnel (view → cart → purchase)
-- Added **total conversion rate** and **step-to-step conversion rate** formulas  
+- Built a pivot table counting unique users at each stage of the funnel (view → cart → purchase)
+- Added total conversion rate and step-to-step conversion rate formulas  
 **Answered in:** `conversion_funnel` sheet  
 
 ---
 
-### **Part 2: Prepare Data for Cohort Analysis**
+### Part 2: Prepare Data for Cohort Analysis
 **Goal:** Group users into acquisition cohorts based on the month of their first purchase.  
 **Steps Completed:**
 - Created a new sheet: `purchase_activity`
@@ -64,7 +61,7 @@ The dataset, provided in the `"raw_user_activity"` sheet, contains the following
 
 ---
 
-### **Part 3: Calculate Retention Rates**
+### Part 3: Calculate Retention Rates
 **Goal:** Measure how well the company retains customers over time by cohort.  
 **Steps Completed:**
 - Built a pivot table: `cohort_analysis`  
@@ -76,13 +73,13 @@ The dataset, provided in the `"raw_user_activity"` sheet, contains the following
 
 ---
 
-### **Part 4: Organize and Document the Spreadsheet**
+### Part 4: Organize and Document the Spreadsheet
 **Goal:** Deliver a polished, executive-ready analysis file.  
 **Steps Completed:**
-- Wrote an **executive summary** describing key insights:
+- Wrote an executive summary describing key insights:
   - Conversion funnel results  
   - Retention analysis highlights  
-- Added a **data description** and **methodology notes** (cohort definitions, formulas, assumptions)  
+- Added a data description and methodology notes (cohort definitions, formulas, assumptions)  
 - Organized all sheets in logical order:
   1. `Table of Contents`
   2. `Executive Summary`
@@ -94,28 +91,26 @@ The dataset, provided in the `"raw_user_activity"` sheet, contains the following
 
 ---
 
-## 📈 Key Business Insights
+##  Key Business Insights
 *(Summarized from the Excel analysis)*
 
-- The **conversion funnel** revealed clear drop-off stages between browsing and checkout.  
-- **Cohort analysis** showed consistent retention for new users over several months.  
-- The **retention rates** helped identify which acquisition months produced the most loyal customers.  
+- The conversion funnel revealed clear drop-off stages between browsing and checkout.  
+- Cohort analysis showed consistent retention for new users over several months.  
+- The retention rates helped identify which acquisition months produced the most loyal customers.  
 
 ---
 
-## ⚙️ Tools & Skills Used
-- **Microsoft Excel / Google Sheets**
-- **Pivot Tables**
-- **VLOOKUP(), TEXT(), DATEDIF()**
-- **Conditional Formatting**
-- **Data Cleaning & Filtering**
-- **Cohort Analysis**
-- **Conversion Funnel Metrics**
+## Tools & Skills Used
+- Pivot Tables
+- VLOOKUP(), TEXT(), DATEDIF()
+- Conditional Formatting
+- Data Cleaning & Filtering
+- Cohort Analysis
+- Conversion Funnel Metrics
 
 ---
 
-### 🏁 Summary
+###  Summary
 
-This project demonstrates the use of **advanced spreadsheet techniques** to analyze customer behavior, calculate retention rates, and communicate insights effectively.  
-Each part of the analysis was carefully executed and **answered in the Excel file “Business Analytics Project.xlsx”**, showcasing hands-on business analytics skills in data preparation, funnel analysis, and cohort modeling.
+This project demonstrates the use of advanced spreadsheet techniques to analyze customer behavior, calculate retention rates, and communicate insights effectively. Each part of the analysis was carefully executed and answered in the Excel file “Business Analytics Project.xlsx”, showcasing hands-on business analytics skills in data preparation, funnel analysis, and cohort modeling.
 
