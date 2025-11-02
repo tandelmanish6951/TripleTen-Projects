@@ -38,9 +38,7 @@ The final deliverable is a **concise, stakeholder-ready report** summarizing key
 
 | File | Description |
 |------|--------------|
-| `Fresh_Beats_Report_Template.docx` | Project report template used for final submission |
-| `Fresh_Beats_Data_Visuals_Insights.xlsx` | Dataset and visuals provided for analysis |
-| `Fresh_Beats_Final_Report.pdf` | Final stakeholder report summarizing findings and recommendations |
+| `Fresh_Beats_Status_Report_Sprint0.docx` | Project report template used for final submission |
 | `README.md` | This file |
 
 ---
@@ -48,31 +46,14 @@ The final deliverable is a **concise, stakeholder-ready report** summarizing key
 ## 🚀 Project Tasks
 
 1. **Review Provided Materials**  
-   - Analyze the dataset, visuals, and insights provided in the project folder.
-   - Understand the logical connections between visuals, findings, and business objectives.
+   - Analyze the dataset, visuals, and insights and understand the logical connections between visuals, findings, and business objectives.
 
-2. **Prepare the Report**  
-   - Fill in all required fields in the report template.  
-   - Select and paste appropriate visuals using the “Paste unlinked” option.  
+2. **Prepare the Report**   
    - Write a concise summary linking insights to business needs.
 
 3. **Summarize Key Findings**  
    - Highlight insights about user engagement, conversion drivers, and promotional effectiveness.  
    - Discuss how data supports specific business recommendations.
-
-4. **Deliver Final Report**  
-   - Ensure consistent formatting and style throughout the document.  
-   - Share the final report via Google Docs with proper access permissions.
-
----
-
-## 📈 Expected Deliverables
-
-- A completed **Fresh Beats Project Report** that:
-  - Contains at least one visualization per business challenge.
-  - Includes a short **Status Summary** (≤ 2 paragraphs).
-  - Relates all insights directly to business challenges.
-  - Provides **data-driven recommendations** to enhance performance.
 
 ---
 
@@ -82,13 +63,6 @@ The final deliverable is a **concise, stakeholder-ready report** summarizing key
 - User engagement peaks around curated playlists featuring trending genres.  
 - Personalized recommendations significantly improve emerging artist visibility.  
 
----
-
-## 🧾 Submission Instructions
-
-- Upload your completed report to Google Drive.  
-- Ensure the sharing settings are set to **“Anyone with the link can view.”**  
-- Submit the report URL as your final project link.
 
 ---
 
