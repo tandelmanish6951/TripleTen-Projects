@@ -1,7 +1,7 @@
 # Storytelling with Data — Tableau Project
 
+Welcome to my Storytelling with Data project, where I analyzed the Superstore dataset to uncover the root causes of product returns and developed a Tableau Story for executive presentation.
 
-Welcome to my Storytelling with Data project, where I analyzed the Superstore dataset to uncover the root causes of product returns and developed a Tableau Story for executive presentation.  
 ---
 
 ## Project Overview
