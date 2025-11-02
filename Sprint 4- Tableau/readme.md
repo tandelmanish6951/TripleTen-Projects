@@ -92,5 +92,4 @@ All questions below were **answered in Tableau** and saved within **Sprint 4 Pro
 
 ### Summary
 
-This project demonstrates how data visualization can uncover business insights — from profit analysis and advertising strategy to product return behavior.  
-Each task was completed in Tableau and highlighting skills in data storytelling**, **visual analytics**, and **strategic business recommendations.
+This project demonstrates how data visualization can uncover business insights — from profit analysis and advertising strategy to product return behavior. Each task was completed in Tableau and highlighting skills in data storytelling, visual analytics, and strategic business recommendations.
