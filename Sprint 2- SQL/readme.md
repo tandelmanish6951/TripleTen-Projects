@@ -91,7 +91,6 @@ All questions were answered using SQL queries.
 - Calculating average degrees per employee at failed startups  
 **Skills Used:** `JOIN`, `SUBQUERY`, `AVG`  
 
-## SQL Code
 ``` sql
 SELECT AVG(t.total_degree_type)
 FROM 
