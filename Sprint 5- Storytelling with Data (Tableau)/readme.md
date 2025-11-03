@@ -78,7 +78,7 @@ To communicate findings effectively, I created a Tableau Story that walks throug
 
 | File | Description |
 |------|--------------|
-| `Sprint 5 Project- Storytelling (Tableau).zip` | Project report zip file used for final submission |
+| `Sprint 5 Project.twbx` | Project Tableau Dashboard & Presentation file used for final submission |
 | `Sprint 5- Story caption only` | Word file with caption for each story |
 | `README.md` | This file |
 
