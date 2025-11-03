@@ -88,8 +88,6 @@ This section focuses on developer-level performance and engagement metrics.
 - Each question and sub-question has a corresponding visualization.
 - Screenshots were captured for each sub-question for documentation and presentation.
 
- **Deliverable:** `Shopify App Analysis.pbix`  
- **Screenshots:** 3 images 
 ---
  
 ##  Files Included
