@@ -78,8 +78,8 @@ To communicate findings effectively, I created a Tableau Story that walks throug
 
 | File | Description |
 |------|--------------|
-| `Sprint 4 Project-twbx.zip` | Project report zip file used for final submission |
-| `Superstore.xls` | Excel file used for data evaluation |
+| `Sprint 5 Project- Storytelling (Tableau).zip` | Project report zip file used for final submission |
+| `Sprint 5- Story caption only` | Word file with caption for each story |
 | `README.md` | This file |
 
 ---
