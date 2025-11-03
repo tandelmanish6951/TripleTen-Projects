@@ -90,6 +90,16 @@ This section focuses on developer-level performance and engagement metrics.
 
  **Deliverable:** `Shopify App Analysis.pbix`  
  **Screenshots:** 3 images 
+---
+ 
+##  Files Included
+
+| File | Description |
+|------|--------------|
+| `Shopify App Analysis.pbix` | Power BI file used for final submission |
+| `shopify.xlsx` | Excel file imported in Power BI. |
+| `3 image files` | Image files used for this project. |
+| `README.md` | This file |
 
 ---
 
