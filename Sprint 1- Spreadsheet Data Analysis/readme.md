@@ -1,23 +1,22 @@
-# 🏙️ Advanced Spreadsheets: Manhattan Airbnb Market Analysis  
+#  Advanced Spreadsheets: Manhattan Airbnb Market Analysis  
 
-## 📘 Project Overview  
+## Project Overview  
 
-This project analyzes **Airbnb listings in Manhattan** to help a client identify which **neighborhoods and property sizes** are most profitable for vacation rentals.  
-By leveraging **pivot tables, data cleaning, and spreadsheet functions**, the analysis provides actionable insights into the **most attractive neighborhoods**, **popular property sizes**, and **revenue potential** of top listings.  
+This project analyzes Airbnb listings in Manhattan to help a client identify which neighborhoods and property sizes are most profitable for vacation rentals.  
+By leveraging pivot tables, data cleaning, and spreadsheet functions, the analysis provides actionable insights into the most attractive neighborhoods, popular property sizes, and revenue potential of top listings.  
 
 ---
 
-## 🧩 Business Objective  
+##  Business Objective  
 
 A client interested in investing in Manhattan vacation rentals wants to know:
-1. Which **neighborhoods and property sizes** (number of bedrooms) are most attractive for vacation rentals?  
-2. How much **revenue** do these listings generate?
-
+1. Which neighborhoods and property sizes (number of bedrooms) are most attractive for vacation rentals?  
+2. How much revenue do these listings generate?
 The analysis aims to guide investment decisions by identifying high-performing listings and estimating potential annual earnings.
 
 ---
 
-## 💾 Dataset  
+##  Dataset  
 
 **Source:** NYC Airbnb Open Data  
 - **listings** — contains property information such as neighborhood, room type, price, and number of reviews.  
@@ -25,7 +24,7 @@ The analysis aims to guide investment decisions by identifying high-performing l
 
 ---
 
-## 🧹 Data Cleaning Steps  
+##  Data Cleaning Steps  
 
 Data cleaning and preparation were performed using Excel functions and formulas.  
 
@@ -39,13 +38,13 @@ Data cleaning and preparation were performed using Excel functions and formulas.
 
 3. **Top Listing Identification**  
    - Created a new column `top_listing` in the listings dataset.  
-   - Value = `1` if the listing belongs to the **top 10 neighborhoods** and matches the **most popular property size**; otherwise, `0`.  
+   - Value = `1` if the listing belongs to the top 10 neighborhoods and matches the most popular property size; otherwise, `0`.  
 
 4. **Revenue Calculation**
 
 ---
 
-## ✅ Checklist  
+## Checklist  
 
 ☑ Unnecessary columns hidden  
 ☑ Consistent formatting (fonts, borders, and colors)  
