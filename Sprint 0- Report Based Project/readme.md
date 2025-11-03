@@ -1,6 +1,6 @@
-# 🎶 Fresh Beats - Business Intelligence Report
+#  Fresh Beats - Business Intelligence Report
 
-## 📊 Project Overview
+##  Project Overview
 
 **Project Type:** Report-Based Analysis   
 **Organization:** TripleTen  
@@ -12,7 +12,7 @@ This project focuses on analyzing business data and identifying actionable insig
 
 ---
 
-## 🧩 Business Challenge
+##  Business Challenge
 
 Fresh Beats faces several strategic challenges that this report seeks to address:
 
@@ -27,14 +27,13 @@ Fresh Beats faces several strategic challenges that this report seeks to address
 
 ---
 
-## 🧠 Project Objective
+##  Project Objective
 
-As a **beginner Business Intelligence Analyst**, the goal of this project is to connect the provided **insights, data visuals, and findings** to the above business challenges.  
-The final deliverable is a **concise, stakeholder-ready report** summarizing key insights, interpretations, and business recommendations.
+As a beginner Business Intelligence Analyst, the goal of this project is to connect the provided insights, data visuals, and findings to the above business challenges. The final deliverable is a concise, stakeholder-ready report summarizing key insights, interpretations, and business recommendations.
 
 ---
 
-## 🗂️ Files Included
+## Files Included
 
 | File | Description |
 |------|--------------|
@@ -43,7 +42,7 @@ The final deliverable is a **concise, stakeholder-ready report** summarizing key
 
 ---
 
-## 🚀 Project Tasks
+## Project Tasks
 
 1. **Review Provided Materials**  
    - Analyze the dataset, visuals, and insights and understand the logical connections between visuals, findings, and business objectives.
@@ -57,7 +56,7 @@ The final deliverable is a **concise, stakeholder-ready report** summarizing key
 
 ---
 
-## 💡 Key Insights
+## Key Insights
 
 - Artists with higher engagement rates tend to invest in cross-platform promotions.  
 - User engagement peaks around curated playlists featuring trending genres.  
@@ -66,7 +65,7 @@ The final deliverable is a **concise, stakeholder-ready report** summarizing key
 
 ---
 
-## 🧑‍💻 Tools and Technologies
+## Tools and Technologies
 
 - **Google Docs / Sheets** — For report preparation and visualization review  
 - **Excel** — For exploring data and visuals  
@@ -74,9 +73,9 @@ The final deliverable is a **concise, stakeholder-ready report** summarizing key
 
 ---
 
-## 🏁 Outcome
+## Outcome
 
-This project demonstrates the ability to interpret pre-existing business insights, connect data visuals to strategic objectives, and communicate findings effectively to stakeholders — an essential skill for any aspiring **Business Intelligence Analyst**.
+This project demonstrates the ability to interpret pre-existing business insights, connect data visuals to strategic objectives, and communicate findings effectively to stakeholders — an essential skill for any aspiring Business Intelligence Analyst.
 
 ---
 
