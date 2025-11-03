@@ -72,11 +72,6 @@ To communicate findings effectively, I created a Tableau Story that walks throug
 | **Actions & Recommendations** | Suggested operational changes to reduce returns (e.g., quality checks, regional review, high-return product audit). | Story Point 5 |
 | **Conclusion** | Summarized key insights and next steps for implementation. | Story Point 6 |
 
-#### Deliverables:
--  Tableau Story file with captions and full visualizations  
--  Story draft with only captions (for submission)
-The full Tableau Story, dashboards, and worksheets are available in “Sprint 5 Project - Storytelling (Tableau).zip.”
-
 ---
 
 ## Files Included
