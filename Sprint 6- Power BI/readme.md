@@ -110,7 +110,7 @@ This section focuses on developer-level performance and engagement metrics.
   - `developer_answered = IF(NOT(ISBLANK(developer_reply)), 1, 0)`
 - **Visualizations:** KPI Cards, Bar Charts, Line Charts, Scatterplots
 - **Filtering & Interactivity:** Page-level and visual-level filters
-- **Annotations & Text Boxes** for interpretative storytelling
+- Annotations & Text Boxes for interpretative storytelling
 
 ---
 
