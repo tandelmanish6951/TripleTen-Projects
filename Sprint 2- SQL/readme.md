@@ -10,7 +10,7 @@ Each question in this project was answered using SQL, applying concepts such as 
 At VentureInsight, a fictional research firm, analysts support venture capital clients by uncovering insights from startup, funding, and acquisition data.  
 The database contains several interconnected tables:
 
-- **company** — information about startups (funding, status, category)  
+- company — information about startups (funding, status, category)  
 - **fund** — details about venture capital funds  
 - **funding_round** — investment round data  
 - **investment** — records of specific investments  
