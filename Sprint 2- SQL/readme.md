@@ -30,42 +30,90 @@ All questions were answered using SQL queries.
 ### 1. Startup Landscape Analysis
 **Goal:** Determine how many companies have failed (closed down) versus those still operating or acquired.  
 **Skills Used:** `SELECT`, `COUNT`, `WHERE` filtering  
+``` sql
+select 
+    Count(name) as companies_closed
+    from company
+WHERE status = 'closed';
+```
 
 ---
 
 ### 2. Sector Analysis for US Investors
 **Goal:** Identify how much funding news-related companies from the USA have raised historically.  
 **Skills Used:** `WHERE` with multiple conditions, `ORDER BY`  
+``` sql
+select funding_total
+FROM company
+WHERE country_code = 'USA' and category_code = 'news'
+ORDER by funding_total DESC;
+```
 
 ---
 
 ### 3. Analyzing Cash Acquisitions
 **Goal:** Find the total cash-based acquisitions from 2011–2013 to understand post-recession acquisition trends.  
 **Skills Used:** `SUM`, `WHERE` (date range), `AND` logic  
+``` sql
+select 
+    SUM(price_amount) as total_amount
+FROM acquisition
+WHERE term_code ='cash' and acquired_at BETWEEN '2011-01-01' and '2013-12-31';
+```
 
 ---
 
 ### 4. Identifying Industry Influencers
 **Goal:** Retrieve people whose Twitter usernames start with "Silver" for marketing outreach.  
 **Skills Used:** `LIKE` pattern matching  
+``` sql
+select first_name,
+    last_name,
+    twitter_username
+    from people
+WHERE twitter_username LIKE 'Silver%';
+```
 
 ---
 
 ### 5. Finding Finance Influencers
 **Goal:** Identify finance influencers with `"money"` in their Twitter handle and last names starting with `'K'`.  
 **Skills Used:** `LIKE`, multiple `WHERE` conditions  
+``` sql
+select * from people
+WHERE last_name like 'K%' AND twitter_username like '%money%';
+```
 
 ---
 
 ### 6. Geographic Investment Analysis
 **Goal:** Calculate the total amount of funding raised by companies per country.  
 **Skills Used:** `GROUP BY`, `SUM`, `ORDER BY`  
+``` sql
+select 
+    SUM(funding_total) as funding_total,
+    country_code
+from company
+GROUP by country_code
+ORDER by funding_total DESC;
+```
 
 ---
 
 ### 7. Funding Round Volatility Analysis
 **Goal:** Examine days with both small and large funding rounds, excluding days with zero funding.  
 **Skills Used:** `GROUP BY`, `HAVING`, aggregation filters  
+``` sql
+select 
+    funded_at,
+    MIN(raised_amount) as min_amount,
+    MAX(raised_amount) as max_amount
+FROM funding_round
+GROUP by 
+    funded_at
+HAVING
+MIN(raised_amount) <> MAX(raised_amount) AND MIN(raised_amount) <> 0;;
+```
 
 ---
 
@@ -74,13 +122,33 @@ All questions were answered using SQL queries.
 - `high_activity` (≥100 investments)  
 - `middle_activity` (20–99 investments)  
 - `low_activity` (<20 investments)  
-**Skills Used:** `CASE`, conditional logic  
+**Skills Used:** `CASE`, conditional logic
+``` sql
+select *,
+CASE WHEN invested_companies >= 100 THEN 'high_activity'
+    WHEN invested_companies >= 20 THEN 'middle_activity'
+    WHEN invested_companies < 20 THEN 'low_activity'
+  else 'unknown'
+END as acitivity_level
+from fund;
+```  
 
 ---
 
 ### 9. Investment Strategy by Fund Activity
 **Goal:** Compare the average number of funding rounds across fund activity levels to identify strategy trends.  
 **Skills Used:** `CASE`, `AVG`, `GROUP BY`, `ORDER BY`  
+``` sql
+select CASE WHEN invested_companies >= 100 THEN 'high_activity'
+    WHEN invested_companies >= 20 THEN 'middle_activity'
+    WHEN invested_companies < 20 THEN 'low_activity'
+  else 'unknown'
+END as activity,
+    ROUND(AVG(investment_rounds)) AS average_funding
+from fund
+GROUP by activity
+order by average_funding;
+```
 
 ---
 
