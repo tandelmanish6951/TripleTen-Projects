@@ -100,4 +100,4 @@ To communicate findings effectively, I created a Tableau Story that walks throug
 This project demonstrates how data storytelling transforms analytics into actionable business decisions. 
 Through Tableau visualizations, dashboards, and stories, I identified key drivers of product returns, built an interactive executive dashboard, and presented a narrative for reducing return rates.  
 
-<img width="1023" height="663" alt="Screenshot 2025-11-02 at 10 04 03 PM" src="https://github.com/user-attachments/assets/5da5f743-1487-444e-ad81-c6a3f3ef0225" />
+<img width="1023" height="663" alt="Screenshot 2025-11-02 at 10 04 03 PM" src="https://github.com/user-attachments/assets/706ed5be-5ecf-4628-bcd8-c501a82b24dc" />
